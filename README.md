@@ -9,6 +9,9 @@ Este proyecto tiene como objetivo practicar la creación de una página web de t
 - HTML
 - CSS
 - JavaScript
+- NextJS
+- React
+
 
 ## Estado
 Proyecto en desarrollo.
